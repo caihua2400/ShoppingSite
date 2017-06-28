@@ -1,0 +1,14 @@
+/*genearl appearnce*/
+td{width:220px;background-color:#E8E8E8;}
+td.submit{text-align:center;}
+
+/*list.php appearance*/
+table#list{border:0px #333333 solid; border-width:2px;}
+td.title{width:100px;background-color:#CFEAEB;}
+td#function{text-align:right;}
+
+/*form.php appearance*/
+table#form{border:0px #333333 solid; border-bottom-width:3px;}
+td.label{width:100px;background-color:#CFEAEB;text-align:right;}
+
+

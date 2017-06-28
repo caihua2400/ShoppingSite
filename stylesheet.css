@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.top{background:black; height:100px; padding-top:20px;}/*top design in all web page*/
+
+.top .header h1{background:black; text-align:center; color:#FFF;}
+
+  .nav{ background:#930; height:80px;}
+
+  .nav a{ float:left; margin:20px 20px 20px 20px;padding:8px 17px 8px 17px; font-size:16px; background-color: #930; color:#9C0;}
+  .nav a:hover { background-color:#960;}
+  
+
+.homeBody { background:url(img/Team.jpeg); height:730px; padding-top:15px; background-repeat:repeat;}
+
+.homeParagraph { background-color: rgba(255,255,255,0.5); height:610px; text-align:center;}
+
+#homep { margin-left:150px; margin-right:150px;}
+
+.actbody{ background-color:#FFF; font-size:18px; height:200px; margin:100px 200px 100px 200px;  }
+
+.activityimg { float:left; margin:30px 40px 30px 20px; height:100px; width:100px; display:inline; }/*image of activity*/
+
+.activityp { float:left; margin:60px 40px 30px 50px; display:inline; width:660px;}/*paragraph of activity*/
+
+#date { font-size:24px; color:#FFF;}
+
+#footer{
+color: #C00;
+opacity:0.8;
+filter:alpha(opacity=10);
+	width:100%;
+	height:30px;
+	left: 661px;
+	text-align:center;
+}/*The paragraph that represent the copy-write.*/
+
+
+
+
+#li {list-style-type:square;}
+/*genearl appearnce*/
+td{width:220px;}
+td.submit{text-align:center;}
+
+/*list.php appearance*/
+table#list{border:0px #333333 solid; border-width:2px;}
+td.title{width:100px;background-color:#CFEAEB;}
+td#function{text-align:right;}
+
+/*form.php appearance*/
+table#form{border:0px #333333 solid; border-bottom-width:3px;}
+td.label{width:100px;background-color:#CFEAEB;text-align:right;}
+
+
+
+
+.login{float:right; color:none;}
+
+#form1{ text-align:center; margin:10px 80px 10px 500px;}
